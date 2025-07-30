@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149024129.jpg",
+        "techType": "UI/UX Design",
+        "title": "Creative UI Design",
+        "description": "Crafting visually engaging and user-friendly interfaces for digital experiences.",
+        "techStack": ["Figma", "jQuery", "Lottie", "Adobe XD"],
+        "link": "https://www.interaction-design.org"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn3d.iconscout.com/3d/premium/thumb/artificial-intelligence-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--ai-robot-bionic-man-science-technology-illustrations-2426541.png",
+        "techType": "Artificial Intelligence",
+        "title": "AI-Powered Chatbots",
+        "description": "Building intelligent chatbots for real-time interaction.",
+        "techStack": ["ChatGPT", "Svelte", "Bootstrap", "BERT"],
+        "link": "https://Bootstrap.com/"
+    },
+    {
+        "id": 3,
+        "image": "https://img.freepik.com/premium-photo/3d-illustration-website-search-engine-optimization-illustration-world-with-magnifier-chat-calendar-image-icons_261703-322.jpg",
+        "techType": "Web Development",
+        "title": "Full-Stack Development",
+        "description": "Building end-to-end web applications covering both frontend and backend.",
+        "techStack": ["React Js", "NodeJS", "MongoDB", "GraphQL"],
+        "link": "https://www.fullstackopen.com/"
+    },
+    {
+        "id": 4,
+        "image": "https://img.freepik.com/premium-psd/3d-rendering-robot-cybersecurity-with-laptop-padlock-illustration_453897-175.jpg",
+        "techType": "Cybersecurity",
+        "title": "Penetration Testing",
+        "description": "Identifying security vulnerabilities and fortifying system defenses.",
+        "techStack": ["Kali Linux", "Metasploit", "Burp Suite", "Wireshark"],
+        "link": "https://www.cyberdegrees.org"
+    },
+    {
+        "id": 5,
+        "image": "https://img.freepik.com/free-vector/mobile-app-development-isometric-background-with-composition-smartphone-screens-with-3d-app-icons-connections-vector-illustration_1284-77301.jpg",
+        "techType": "UI/UX Design",
+        "title": "User-Centric UX Design",
+        "description": "Enhancing user interaction and accessibility for a seamless digital experience.",
+        "techStack": ["Figma", "User Research", "Wireframing", "Prototyping"],
+        "link": "https://www.nngroup.com/"
+    },
+    {
+        "id": 6,
+        "image": "https://img.freepik.com/premium-vector/project-management-concept-3d-vector-illustration-cartoon-minimal-style_365941-862.jpg",
+        "techType": "Web Development",
+        "title": "Progressive Web Apps",
+        "description": "Creating fast, engaging, and offline-first web applications.",
+        "techStack": ["Vite", "Django", "Workbox", "Lighthouse"],
+        "link": "https://web.dev/progressive-web-apps/"
+    },
+    {
+        "id": 7,
+        "image": "https://img.freepik.com/free-psd/3d-rendering-cybersecurity-background_23-2151703622.jpg",
+        "techType": "Cybersecurity",
+        "title": "Secure Network Architecture",
+        "description": "Implementing robust security protocols to protect network infrastructure.",
+        "techStack": ["Firewalls", "VPN", "Encryption", "Zero Trust"],
+        "link": "https://www.cisco.com/c/en/us/products/security.html"
+    },
+    {
+        "id": 8,
+        "image": "https://cdn3d.iconscout.com/3d/free/thumb/free-android-3d-logo-download-in-png-blend-fbx-gltf-file-formats--technology-social-media-pack-logos-4642762.png?f=webp",
+        "techType": "App Development",
+        "title": "Android App Development",
+        "description": "Building robust and scalable mobile applications using Java and Kotlin.",
+        "techStack": ["Java", "Kotlin", "Android Studio", "Firebase"],
+        "link": "https://developer.android.com"
+    },
+    {
+        "id": 9,
+        "image": "https://cdn3d.iconscout.com/3d/free/thumb/free-react-native-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-social-media-pack-logos-4642743.png",
+        "techType": "App Development",
+        "title": "React Native Apps",
+        "description": "Creating cross-platform mobile applications with React Native.",
+        "techStack": ["React Native", "Expo", "Redux", "TypeScript"],
+        "link": "https://reactnative.dev/"
+    },
+    {
+        "id": 10,
+        "image": "https://cdn3d.iconscout.com/3d/premium/thumb/deep-learning-3d-icon-download-in-png-blend-fbx-gltf-file-formats--machine-neural-network-artificial-intelligence-ai-information-technology-pack-design-development-icons-7703539.png?f=webp",
+        "techType": "Artificial Intelligence",
+        "title": "Deep Learning Models",
+        "description": "Leveraging deep learning frameworks for complex problem-solving.",
+        "techStack": ["TensorFlow", "PyTorch", "NLP", "Computer Vision"],
+        "link": "https://pytorch.org/"
+    },
+    {
+        "id": 11,
+        "image": "https://static.vecteezy.com/system/resources/previews/042/382/071/non_2x/big-data-3d-illustration-icon-png.png",
+        "techType": "Data Science",
+        "title": "Big Data Engineering",
+        "description": "Designing scalable architectures for data storage and processing.",
+        "techStack": ["Hadoop", "Spark", "Kafka", "AWS"],
+        "link": "https://databricks.com/"
+    },
+    {
+        "id": 12,
+        "image": "https://elements-resized.envatousercontent.com/elements-cover-images/70e86531-a448-4ccb-9544-e55b1530a813?w=433&cf_fit=scale-down&q=85&format=auto&s=59f83188370c4df45d30dec91bd954aad7083177a0159f7be66882c18fd6c4b0",
+        "techType": "UI/UX Design",
+        "title": "Design Systems",
+        "description": "Creating scalable and consistent UI component libraries.",
+        "techStack": ["Figma", "Storybook", "Atomic Design", "Material UI"],
+        "link": "https://designsystemsrepo.com/"
+    },
+    {
+        "id": 13,
+        "image": "https://t3.ftcdn.net/jpg/05/21/49/96/360_F_521499618_w3geZHrCK5y5aEqNPtTiKQXRnM65VAS6.jpg",
+        "techType": "Cybersecurity",
+        "title": "Ethical Hacking",
+        "description": "Learning offensive security strategies and defense mechanisms.",
+        "techStack": ["Nmap", "SQL Injection", "XSS", "MITM"],
+        "link": "https://www.offensive-security.com/"
+    },
+    {
+        "id": 14,
+        "image": "https://static.vecteezy.com/system/resources/previews/028/754/427/non_2x/machine-learning-3d-icon-illustrations-png.png",
+        "techType": "Data Science",
+        "title": "Machine Learning Ops",
+        "description": "Deploying and maintaining ML models in production.",
+        "techStack": ["Docker", "Kubeflow", "MLflow", "TensorFlow"],
+        "link": "https://ml-ops.org/"
+    }
+]
